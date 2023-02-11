@@ -1,4 +1,8 @@
-![](./img/welcome.png)
+<div align="center">
+<img src="./img/welcome.png">
+</div>
+
+<div align="center">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Hato1125&show_icons=true&theme=dark"
@@ -10,3 +14,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Hato1125&show_icons=true" />
 </picture>
+</div>
