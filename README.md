@@ -1,25 +1,9 @@
-<div align="center">
-    <img src="./img/welcome.png" />
-</div>
+<h1 align="center">Hi 👋, I'm Hato</h1>
+<h3 align="center">A student from Japan.</h3>
 
-<div align="center">
-    <div align="center">
-        <picture>
-            <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hato1125&theme=dark"
-                media="(prefers-color-scheme: dark)" />
-            <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hato1125"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hato1125&show_icons=true" />
-        </picture>
-    </div>
+- 🔭 I’m currently working on [sweet engine](git@github.com:Hato1125/sweet_.git)
 
-</div>
-<div align="center">
-    <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=Hato1125&show_icons=true&theme=dark"
-            media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=Hato1125&show_icons=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=Hato1125&show_icons=true" />
-    </picture>
-</div>
+- 🌱 I’m currently learning **cpp vulkan**
+
+- 📫 How to reach me **hato.flavius@gmail.com**
+</p>
