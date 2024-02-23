@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sweet engine](git@github.com:Hato1125/sweet_.git)
 
-- 🌱 I’m currently learning **cpp vulkan**
+- 🌱 I’m currently learning **cpp and vulkan**
 
 - 📫 How to reach me **hato.flavius@gmail.com**
 </p>
