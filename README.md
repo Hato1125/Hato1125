@@ -6,5 +6,5 @@
 - TypeScript
 
 ## Things I Love
-- Linux
-- Cats
+* 🐧 Linux
+- 🐈️ Cats
