@@ -1,7 +1,6 @@
 # Hello there
 
 ## Languages
-- C
 - C++
 - TypeScript
 
